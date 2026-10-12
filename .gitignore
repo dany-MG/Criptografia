@@ -1,1 +1,11 @@
 *.exe
+
+.venv/
+
+*.bmp
+*.jpg
+*.png
+*.gif
+
+pycache/
+__pycache__/
